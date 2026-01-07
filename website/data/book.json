@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A burnout-suffering wellness influencer signs up for a \"soul cleansing\" ceremony at a Balinese hostel, not realizing the shaman is actually harvesting souls to feed an ancient hunger deity.",
     "long": ""
   },
   "death_type": "Soul Extraction",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She came to find herself. Something else found her first."
 }
